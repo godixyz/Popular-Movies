@@ -42,7 +42,7 @@ public class MainActivity extends AppCompatActivity {
 
     private static final String LOG_TAG = MainActivity.class.getSimpleName();
 
-    private static final String API_KEY = "03ac1bb2cf9b74661d41fbca8087307b";
+    private static final String API_KEY = "YOUR_API_KEY";
 
     // Shared Preferences to save sort settings
     SharedPreferences mSharedPref;
